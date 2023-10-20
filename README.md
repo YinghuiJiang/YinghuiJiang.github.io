@@ -1,30 +1,15 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+## Personal blog
+* Content: Updates on technical topics, new trends or tutorials in software development, data science etc.
+* Owner: Yinghui Jiang.\
+  \
+[Click here](https://YinghuiJiang.github.io) to view the blog.
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+## Copyright
+Unless otherwise indicated, the content on this blog is unpublished and not for sale. You may link to and briefly quote the content on this site. Links to the content or brief quotes from the content on this site posted on social networks or elsewhere are not to be construed as publication.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+### You must not:
 
-## Preview
-
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
-
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+* Publish material from this website without prior written consent.
+* Sell or rent material from this website.
+* Reproduce, duplicate, download, create derivatives, copy or otherwise exploit material on this website for any purpose.
+* Redistribute any content from this website, including onto another website.
