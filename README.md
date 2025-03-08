@@ -9,7 +9,7 @@ Unless otherwise indicated, the content on this blog is unpublished and not for 
 
 -----test-----
 
-### You must not:
+### You must not, in any case:
 
 * Publish material from this website without prior written consent.
 * Sell or rent material from this website.
