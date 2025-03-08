@@ -7,6 +7,8 @@
 ## Copyright
 Unless otherwise indicated, the content on this blog is unpublished and not for sale. You may link to and briefly quote the content on this site. Links to the content or brief quotes from the content on this site posted on social networks or elsewhere are not to be construed as publication.
 
+-----test-----
+
 ### You must not:
 
 * Publish material from this website without prior written consent.
